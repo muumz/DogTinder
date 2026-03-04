@@ -8,9 +8,9 @@ It was recreated and customized as part of my learning process in responsive web
 TinDog by App Brewery – https://appbrewery.github.io/tindog/
 
 ## Built With
-*HTML5
-*CSS3
-*Bootstrap 5
+* HTML5
+* CSS3
+* Bootstrap 5
 
 ## Screenshots
 <img width="1883" height="893" alt="image" src="https://github.com/user-attachments/assets/ab303b50-16bf-42f6-a2ae-47771a467484" />
