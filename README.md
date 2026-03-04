@@ -21,7 +21,7 @@ TinDog by App Brewery – https://appbrewery.github.io/tindog/
 
 ## Learning Purpose
 This project was built for educational purposes to practice:
-Bootstrap layout system
-Responsive design
-Component styling
-Clean HTML structure
+* Bootstrap layout system
+* Responsive design
+* Component styling
+* Clean HTML structure
