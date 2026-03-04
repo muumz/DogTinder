@@ -25,4 +25,3 @@ Bootstrap layout system
 Responsive design
 Component styling
 Clean HTML structure
-Frontend deployment with GitHub Pages
